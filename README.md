@@ -20,7 +20,7 @@ Deploy Via Heroku.
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
  </p>
-
+https://heroku.com/deploy
 ## Support   
 Join the [telegram group](https://t.me/stardevbots) for support and the [channel](https://t.me/StarDevs) for updates.   
 Demo Bot - [Click here](https://t.me/Account_GeneratingBot) 
